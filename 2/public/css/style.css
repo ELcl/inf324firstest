@@ -1,0 +1,22 @@
+#cabecera{
+	color: #581845 ;
+	background-color: #FF5733 ;
+	width: 1024px;
+	text-align: center;
+}
+
+#menu{
+	color: #900C3F;
+	background-color: #FFC300 ;
+	width: 100px;
+	height: 300px;
+	float: left;
+}
+
+#contenido{
+	color: #C70039 ;
+	background-color :#DAF7E6 ;
+	width: 924px;
+	height: 300px;
+	float: left;
+}
